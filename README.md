@@ -26,15 +26,17 @@ Follow the steps below to get started:
 ```bash
 git clone https://github.com/Pavankumar599/student-assignment-grader.git
 cd student-assignment-grader
+```
 
----
 ### 2.Create and activate virtual environment
 
 ```bash
 conda create --name grade python=3.10
 conda activate grade
+```
 
----
 ### 3.Install requirement.tx
 ```bash
 pip install requirements.txt
+```
+
