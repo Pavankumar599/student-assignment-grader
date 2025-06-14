@@ -40,3 +40,13 @@ conda activate grade
 pip install requirements.txt
 ```
 
+### 4. API Keys
+goto openAi and get API key and paste the apikey in .env file
+now check the API key is working or not
+```bash
+python3 testingapi.py
+```
+If the Api key is working then proceed to further steps
+
+
+
